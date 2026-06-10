@@ -1,4 +1,4 @@
-package adapter;
+package adapter_Estrutural;
 
 public interface Logger {
 

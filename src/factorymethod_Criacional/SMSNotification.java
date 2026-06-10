@@ -1,4 +1,4 @@
-package factorymethod;
+package factorymethod_Criacional;
 
 public class SMSNotification implements Notification {
 

@@ -1,4 +1,4 @@
-package adapter;
+package adapter_Estrutural;
 
 public class LegacyLoggerAdapter implements Logger {
 
